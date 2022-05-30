@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-This analysis examines a Pyber ride sharing dataset that includes data for 2,375 rides in 120 service areas, from January 1 2019 to May 8 2019. The ride observations include a ride ID number, the date/time, the fare, and the service area. The service area (called cities in the dataset) data includes the city name, number of drivers, and the service area category (urban, suburban, rural). The analysis develops summary statistics to allow comparisons across the three service area categories. 
+This analysis examines a Pyber ride sharing dataset that includes data for 2,375 rides in 120 service areas, from January 1, 2019 to May 8, 2019. The ride observations include a ride ID number, the date/time, the fare, and the service area. The service area (called cities in the dataset) data includes the city name, number of drivers, and the service area category (urban, suburban, rural). The analysis develops summary statistics to allow comparisons across the three service area categories. 
 
 ## Analysis of Ride Sharing Statistics Across Service Area Categories
 
@@ -16,6 +16,8 @@ Average Fare  (in $US)
 Average Fare per Driver (in $US)
 
 These statistics indicated that there are more drivers and more rides in urban areas, and the fewest drivers and rides in rural areas. They also indicate that average fares lowest in urban areas and highest in rural areas. These statistics my suggest that ride sharing is cheaper and more available in urban areas (and expensive/less available in rural areas), but more data is required to prove this hypothesis.
+
+The analysis also provides a line graph showing total fares by service area type from January 1, 2019 thru April 29, 2019. This graph shows that most of Pyber's revenue comes from urban areas, and that there was a drastic reduction in ride sharing in urban and suburban service areas for several days around April 1st.
 
 ## Summary
 
